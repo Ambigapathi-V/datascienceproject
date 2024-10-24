@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729777248286
+current_stage: None
+description: null
+last_updated_timestamp: 1729777248286
+name: ElasticModel
+run_id: 4053fbc063e3416d8871ccc06284812e
+run_link: null
+source: mlflow-artifacts:/9ae8f79f3cee4c0780d8fb71193c635d/4053fbc063e3416d8871ccc06284812e/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/9ae8f79f3cee4c0780d8fb71193c635d/4053fbc063e3416d8871ccc06284812e/artifacts/model
+user_id: null
+version: 4

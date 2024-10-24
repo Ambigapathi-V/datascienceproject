@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729770734369
+current_stage: None
+description: null
+last_updated_timestamp: 1729770734369
+name: ElasticModel
+run_id: 788dfe068ef84323a5cc402f454332f1
+run_link: null
+source: file:///c:/Users/ambig/jupiter_notebook/MLOPS/datascienceproject/fb2f95b034bede9a12064d51b3918656290ea18c/0/788dfe068ef84323a5cc402f454332f1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ambig/jupiter_notebook/MLOPS/datascienceproject/fb2f95b034bede9a12064d51b3918656290ea18c/0/788dfe068ef84323a5cc402f454332f1/artifacts/model
+user_id: null
+version: 2
