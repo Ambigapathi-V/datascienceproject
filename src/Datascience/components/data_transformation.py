@@ -16,9 +16,9 @@ class DataTransformation:
         train ,test = train_test_split(data)
         
         # Create  training and test sets
-        train.to_csv(os.path.join(self.config.root_dir,"train.csv"))
+        train.to_csv(os.path.join(self.config.root_dir,"train.csv"), index=False)
         
-        test.to_csv(os.path.join(self.config.root_dir,"test.csv"))
+        test.to_csv(os.path.join(self.config.root_dir,"test.csv" ), index=False)
         
         # Logging
         logger.info(f"Training and test sets created successfully at {self.config.root_dir}")
